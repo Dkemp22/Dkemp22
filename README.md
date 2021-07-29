@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dkemp22
+- 👋 Hi, I’m Damien Kemp @Dkemp22
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-end projects
